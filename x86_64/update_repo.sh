@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm carli_repo*
+rm tranquillity-repo*
 
 echo "repo-add"
 #repo-add -s -n -R carli_repo.db.tar.gz *.pkg.tar.zst
