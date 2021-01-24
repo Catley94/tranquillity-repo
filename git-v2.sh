@@ -16,7 +16,6 @@
 # git commit --amend -m "more info"
 # git push --force origin
 
-
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
 git pull
